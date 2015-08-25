@@ -1,0 +1,25 @@
+#summary Guide d'utilisation de zppShortcuts
+#labels Featured
+
+Notez que zppShortcuts s'applique également à bugs.siteduzero.com
+=Raccourcis vers les différentes pages=
+La touche _SHIFT_ (ou _MAJ_) de votre clavier doit être pressée en même temps que la lettre correspondante.
+|| A || Accueil du site                          ||
+|| B || Bug tracker                              ||
+|| C || Cours                                    ||
+|| F || Forum                                    ||
+|| M || Boîte à MP                               ||
+|| N || News                                     ||
+|| P || Réglages du profil                       ||
+|| R || Recherche                                ||
+|| 1 || Premier lien de « _Mes interventions_ »  ||
+|| 2 || Deuxième lien de « _Mes interventions_ » ||
+|| n || Énième lien de « _Mes interventions_ »   ||
+|| 0 || Dixième lien de « _Mes interventions_ »  ||
+
+=Raccourcis de navigation=
+Ils sont optimisés pour les ordinateurs portables, et les situations où l'espace de travail est restreint ou inadapté à un dispositif de pointage (souris, _touchpad_, _trackball_, …).
+La touche _SHIFT_ (ou _MAJ_) de votre clavier *ne* doit *pas* être pressée en même temps que la lettre correspondante.
+|| J || Scroller vers le bas de 10 pixels  ||
+|| K || Scroller vers le haut de 10 pixels ||
+|| R || Aller à la « réponse rapide »      ||

@@ -1,0 +1,26 @@
+#summary Notice d'installation des scripts
+#labels Featured,Phase-Deploy
+
+=Mozilla Firefox=
+Vous aurez besoin de l'extension Greasemonkey. [https://addons.mozilla.org/fr/firefox/downloads/latest/748/addon-748-latest.xpi Téléchargez-là] et installez-là.
+
+Puis allez chercher les scripts sur la page _Downloads_, Greasemonkey se chargera de les ajouter pour vous.
+
+=Opera=
+Créez un dossier zppScripts sur votre disque dur, et téléchargez les scripts que vous souhaitez utiliser dans ce dossier.
+
+Puis allez configurer Opera :
+  * Menu _Outils_
+  * Sous-menu _Préférences_
+  * Onglet _Avancé_
+  * Onglet (dans la liste de gauche) _Contenu_
+  * Bouton _Options JavaScript_
+  * Dans le champ en bas de fenêtre, indiquez le dossier zppScripts
+
+=Apple Safari=
+Vous devrez installer quelques petits trucs !
+Tout d'abord, [http://www.culater.net/software/SIMBL/SIMBL.php SIMBL].
+Ensuite, fermez Safari, et installez [http://8-p.info/greasekit/ GreaseKit] : téléchargez la dernière version et déposez le fichier _GreaseKit.bundle_ dans _~/Library/Application Support/SIMBL/Plugins_ (si le dossier _SIMBL/Plugins_ n'existe pas, créez-le).
+Réouvrez Safari, vous devriez voir un menu _GreaseKit_.
+
+Il ne vous reste plus qu'à aller chercher les scripts (page _Downloads_), et à valider l'installation !
